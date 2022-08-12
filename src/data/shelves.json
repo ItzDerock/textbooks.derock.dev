@@ -36,9 +36,19 @@
         "title": "10th Grade",
         "books": [
             {
-                "alt": "Advanced Algebra 2",
-                "href": "https://downloads.derock.dev/kcd-advalgebruh2-unlocked-fhd18yhha.pdf",
-                "thumbnail": "https://img.derock.dev/CeGL10.png"
+                "alt": "Biology E2",
+                "href": "https://openstax.org/books/biology-2e/pages/1-introduction",
+                "thumbnail": "https://img.derock.dev/fWy83d.png"
+            },
+            {
+                "alt": "Chemistry E2",
+                "href": "https://openstax.org/books/chemistry-2e/pages/1-introduction",
+                "thumbnail": "https://img.derock.dev/tAvj59.png"
+            },
+            {
+                "alt": "Adv Precal",
+                "thumbnail": "https://img.derock.dev/vByLLL.png",
+                "href": "https://kcd.myschoolapp.com/ftpimages/691/download/download_2378678.pdf"
             }
         ]
     }
